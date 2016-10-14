@@ -1,0 +1,6 @@
+c:\users\alton\documents\visual studio 2015\Projects\Linq Query\Linq Query\bin\Debug\Linq Query.exe.config
+c:\users\alton\documents\visual studio 2015\Projects\Linq Query\Linq Query\bin\Debug\Linq Query.exe
+c:\users\alton\documents\visual studio 2015\Projects\Linq Query\Linq Query\bin\Debug\Linq Query.pdb
+c:\users\alton\documents\visual studio 2015\Projects\Linq Query\Linq Query\obj\Debug\Linq Query.csprojResolveAssemblyReference.cache
+c:\users\alton\documents\visual studio 2015\Projects\Linq Query\Linq Query\obj\Debug\Linq Query.exe
+c:\users\alton\documents\visual studio 2015\Projects\Linq Query\Linq Query\obj\Debug\Linq Query.pdb
